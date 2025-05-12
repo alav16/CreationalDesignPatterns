@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob2AbstractFactory\prob2AbstractFactory\bin\Debug\prob2AbstractFactory.exe.config
+C:\Users\user\Desktop\prob2AbstractFactory\prob2AbstractFactory\bin\Debug\prob2AbstractFactory.exe
+C:\Users\user\Desktop\prob2AbstractFactory\prob2AbstractFactory\bin\Debug\prob2AbstractFactory.pdb
+C:\Users\user\Desktop\prob2AbstractFactory\prob2AbstractFactory\obj\Debug\prob2AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob2AbstractFactory\prob2AbstractFactory\obj\Debug\prob2AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob2AbstractFactory\prob2AbstractFactory\obj\Debug\prob2AbstractFactory.exe
+C:\Users\user\Desktop\prob2AbstractFactory\prob2AbstractFactory\obj\Debug\prob2AbstractFactory.pdb

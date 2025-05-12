@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob6AbstractFactory\prob6AbstractFactory\bin\Debug\prob6AbstractFactory.exe.config
+C:\Users\user\Desktop\prob6AbstractFactory\prob6AbstractFactory\bin\Debug\prob6AbstractFactory.exe
+C:\Users\user\Desktop\prob6AbstractFactory\prob6AbstractFactory\bin\Debug\prob6AbstractFactory.pdb
+C:\Users\user\Desktop\prob6AbstractFactory\prob6AbstractFactory\obj\Debug\prob6AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob6AbstractFactory\prob6AbstractFactory\obj\Debug\prob6AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob6AbstractFactory\prob6AbstractFactory\obj\Debug\prob6AbstractFactory.exe
+C:\Users\user\Desktop\prob6AbstractFactory\prob6AbstractFactory\obj\Debug\prob6AbstractFactory.pdb

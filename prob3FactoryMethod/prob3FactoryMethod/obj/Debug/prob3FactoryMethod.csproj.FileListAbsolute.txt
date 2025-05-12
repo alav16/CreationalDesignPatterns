@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\prob3FactoryMethod\prob3FactoryMethod\bin\Debug\prob3FactoryMethod.exe.config
+C:\Users\user\Desktop\prob3FactoryMethod\prob3FactoryMethod\bin\Debug\prob3FactoryMethod.exe
+C:\Users\user\Desktop\prob3FactoryMethod\prob3FactoryMethod\bin\Debug\prob3FactoryMethod.pdb
+C:\Users\user\Desktop\prob3FactoryMethod\prob3FactoryMethod\obj\Debug\prob3FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob3FactoryMethod\prob3FactoryMethod\obj\Debug\prob3FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob3FactoryMethod\prob3FactoryMethod\obj\Debug\prob3FactoryMethod.exe
+C:\Users\user\Desktop\prob3FactoryMethod\prob3FactoryMethod\obj\Debug\prob3FactoryMethod.pdb
+C:\Users\user\Desktop\Marj\Homework\April26\prob3FactoryMethod\prob3FactoryMethod\bin\Debug\prob3FactoryMethod.exe.config
+C:\Users\user\Desktop\Marj\Homework\April26\prob3FactoryMethod\prob3FactoryMethod\bin\Debug\prob3FactoryMethod.exe
+C:\Users\user\Desktop\Marj\Homework\April26\prob3FactoryMethod\prob3FactoryMethod\bin\Debug\prob3FactoryMethod.pdb
+C:\Users\user\Desktop\Marj\Homework\April26\prob3FactoryMethod\prob3FactoryMethod\obj\Debug\prob3FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Marj\Homework\April26\prob3FactoryMethod\prob3FactoryMethod\obj\Debug\prob3FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Marj\Homework\April26\prob3FactoryMethod\prob3FactoryMethod\obj\Debug\prob3FactoryMethod.exe
+C:\Users\user\Desktop\Marj\Homework\April26\prob3FactoryMethod\prob3FactoryMethod\obj\Debug\prob3FactoryMethod.pdb

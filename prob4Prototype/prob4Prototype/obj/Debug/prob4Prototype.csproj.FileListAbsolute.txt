@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob4Prototype\prob4Prototype\bin\Debug\prob4Prototype.exe.config
+C:\Users\user\Desktop\prob4Prototype\prob4Prototype\bin\Debug\prob4Prototype.exe
+C:\Users\user\Desktop\prob4Prototype\prob4Prototype\bin\Debug\prob4Prototype.pdb
+C:\Users\user\Desktop\prob4Prototype\prob4Prototype\obj\Debug\prob4Prototype.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob4Prototype\prob4Prototype\obj\Debug\prob4Prototype.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob4Prototype\prob4Prototype\obj\Debug\prob4Prototype.exe
+C:\Users\user\Desktop\prob4Prototype\prob4Prototype\obj\Debug\prob4Prototype.pdb

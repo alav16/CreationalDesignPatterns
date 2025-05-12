@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April26\\prob7Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88FF5E98-C9CE-4F67-894C-894D5A8D6D83}|prob7Prototype\\prob7Prototype.csproj|c:\\users\\user\\desktop\\marj\\homework\\april26\\prob7prototype\\prob7prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FF5E98-C9CE-4F67-894C-894D5A8D6D83}|prob7Prototype\\prob7Prototype.csproj|solutionrelative:prob7prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April26\\prob7Prototype\\prob7Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "prob7Prototype\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April26\\prob7Prototype\\prob7Prototype\\Program.cs",
+              "RelativeToolTip": "prob7Prototype\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:43:55.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

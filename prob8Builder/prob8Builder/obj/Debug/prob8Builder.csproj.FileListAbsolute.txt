@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob8Builder\prob8Builder\bin\Debug\prob8Builder.exe.config
+C:\Users\user\Desktop\prob8Builder\prob8Builder\bin\Debug\prob8Builder.exe
+C:\Users\user\Desktop\prob8Builder\prob8Builder\bin\Debug\prob8Builder.pdb
+C:\Users\user\Desktop\prob8Builder\prob8Builder\obj\Debug\prob8Builder.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob8Builder\prob8Builder\obj\Debug\prob8Builder.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob8Builder\prob8Builder\obj\Debug\prob8Builder.exe
+C:\Users\user\Desktop\prob8Builder\prob8Builder\obj\Debug\prob8Builder.pdb

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\prob1Singleton\prob1Singleton\bin\Debug\prob1Singleton.exe.config
+C:\Users\user\Desktop\prob1Singleton\prob1Singleton\bin\Debug\prob1Singleton.exe
+C:\Users\user\Desktop\prob1Singleton\prob1Singleton\bin\Debug\prob1Singleton.pdb
+C:\Users\user\Desktop\prob1Singleton\prob1Singleton\obj\Debug\prob1Singleton.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob1Singleton\prob1Singleton\obj\Debug\prob1Singleton.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob1Singleton\prob1Singleton\obj\Debug\prob1Singleton.exe
+C:\Users\user\Desktop\prob1Singleton\prob1Singleton\obj\Debug\prob1Singleton.pdb
+C:\Users\user\Desktop\Marj\Homework\April26\prob1Singleton\prob1Singleton\bin\Debug\prob1Singleton.exe.config
+C:\Users\user\Desktop\Marj\Homework\April26\prob1Singleton\prob1Singleton\bin\Debug\prob1Singleton.exe
+C:\Users\user\Desktop\Marj\Homework\April26\prob1Singleton\prob1Singleton\bin\Debug\prob1Singleton.pdb
+C:\Users\user\Desktop\Marj\Homework\April26\prob1Singleton\prob1Singleton\obj\Debug\prob1Singleton.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Marj\Homework\April26\prob1Singleton\prob1Singleton\obj\Debug\prob1Singleton.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Marj\Homework\April26\prob1Singleton\prob1Singleton\obj\Debug\prob1Singleton.exe
+C:\Users\user\Desktop\Marj\Homework\April26\prob1Singleton\prob1Singleton\obj\Debug\prob1Singleton.pdb

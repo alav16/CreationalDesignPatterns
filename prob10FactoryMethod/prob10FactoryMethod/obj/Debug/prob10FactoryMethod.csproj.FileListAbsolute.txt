@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob10FactoryMethod\prob10FactoryMethod\bin\Debug\prob10FactoryMethod.exe.config
+C:\Users\user\Desktop\prob10FactoryMethod\prob10FactoryMethod\bin\Debug\prob10FactoryMethod.exe
+C:\Users\user\Desktop\prob10FactoryMethod\prob10FactoryMethod\bin\Debug\prob10FactoryMethod.pdb
+C:\Users\user\Desktop\prob10FactoryMethod\prob10FactoryMethod\obj\Debug\prob10FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob10FactoryMethod\prob10FactoryMethod\obj\Debug\prob10FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob10FactoryMethod\prob10FactoryMethod\obj\Debug\prob10FactoryMethod.exe
+C:\Users\user\Desktop\prob10FactoryMethod\prob10FactoryMethod\obj\Debug\prob10FactoryMethod.pdb

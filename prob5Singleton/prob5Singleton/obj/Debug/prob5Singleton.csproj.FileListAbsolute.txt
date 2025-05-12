@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob5Singleton\prob5Singleton\bin\Debug\prob5Singleton.exe.config
+C:\Users\user\Desktop\prob5Singleton\prob5Singleton\bin\Debug\prob5Singleton.exe
+C:\Users\user\Desktop\prob5Singleton\prob5Singleton\bin\Debug\prob5Singleton.pdb
+C:\Users\user\Desktop\prob5Singleton\prob5Singleton\obj\Debug\prob5Singleton.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob5Singleton\prob5Singleton\obj\Debug\prob5Singleton.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob5Singleton\prob5Singleton\obj\Debug\prob5Singleton.exe
+C:\Users\user\Desktop\prob5Singleton\prob5Singleton\obj\Debug\prob5Singleton.pdb

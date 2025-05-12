@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob7Prototype\prob7Prototype\bin\Debug\prob7Prototype.exe.config
+C:\Users\user\Desktop\prob7Prototype\prob7Prototype\bin\Debug\prob7Prototype.exe
+C:\Users\user\Desktop\prob7Prototype\prob7Prototype\bin\Debug\prob7Prototype.pdb
+C:\Users\user\Desktop\prob7Prototype\prob7Prototype\obj\Debug\prob7Prototype.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob7Prototype\prob7Prototype\obj\Debug\prob7Prototype.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob7Prototype\prob7Prototype\obj\Debug\prob7Prototype.exe
+C:\Users\user\Desktop\prob7Prototype\prob7Prototype\obj\Debug\prob7Prototype.pdb
